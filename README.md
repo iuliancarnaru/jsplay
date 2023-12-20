@@ -1,0 +1,6 @@
+DARK PALETTE:
+
+#162447
+#1f4068
+#1b1b2f
+#e43f5a
