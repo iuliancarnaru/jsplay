@@ -45,7 +45,7 @@ body {
 
 .input-group .toggle {
   position: absolute;
-  right: 12px;
+  right: 10px;
   font-size: 25px;
   cursor: pointer;
   user-select: none;
